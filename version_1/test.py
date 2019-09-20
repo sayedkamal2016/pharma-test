@@ -17,6 +17,7 @@ class TestLoginPage(unittest.TestCase):
     def test_01_load_page(self):
         driver = self.driver
         assert "Поліклініка без черг" in driver.title
+        print(driver.title)
 
     def test_02_1_enter_submit_without_login(self):
         driver = self.driver
