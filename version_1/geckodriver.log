@@ -1,0 +1,169 @@
+1568973961310	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qzK30ua1RfvW"
+1568973962132	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568973962132	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568973962132	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568973962132	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568973964832	Marionette	INFO	Listening on port 35113
+1568973964927	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pharmacy-test-preprod.newmedicine.com.ua/scripts/EUSign/euscp.js, line 0: Successfully compiled asm.js code (total compilation time 1038ms)
+1568973973811	Marionette	INFO	Stopped listening on port 35113
+1568974048325	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.TIf5SqaqxQdy"
+1568974048969	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568974048969	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568974048969	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568974048969	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568974051950	Marionette	INFO	Listening on port 40011
+1568974052037	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pharmacy-test-preprod.newmedicine.com.ua/scripts/EUSign/euscp.js, line 0: Successfully compiled asm.js code (total compilation time 1149ms)
+1568974063747	Marionette	INFO	Stopped listening on port 40011
+1568974398717	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Rq9pmHL6EstE"
+1568974399261	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568974399261	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568974399262	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568974399262	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568974401878	Marionette	INFO	Listening on port 33437
+1568974401934	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pharmacy-test-preprod.newmedicine.com.ua/scripts/EUSign/euscp.js, line 0: Successfully compiled asm.js code (total compilation time 1016ms)
+1568974408334	Marionette	INFO	Stopped listening on port 33437
+1568974410457	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Qu96pIquTA6p"
+1568974411027	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568974411027	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568974411027	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568974411028	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568974413401	Marionette	INFO	Listening on port 32783
+1568974413469	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pharmacy-test-preprod.newmedicine.com.ua/scripts/EUSign/euscp.js, line 0: Successfully compiled asm.js code (total compilation time 1015ms)
+1568974419991	Marionette	INFO	Stopped listening on port 32783
+1568974423823	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Fs8O333Q3VbU"
+1568974424464	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568974424464	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568974424464	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568974424464	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568974426878	Marionette	INFO	Listening on port 44175
+1568974426935	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pharmacy-test-preprod.newmedicine.com.ua/scripts/EUSign/euscp.js, line 0: Successfully compiled asm.js code (total compilation time 1143ms)
+1568974438295	Marionette	INFO	Stopped listening on port 44175
+JavaScript error: https://pharmacy-test-preprod.newmedicine.com.ua/app-f7347dfec1.js, line 3882: NS_ERROR_NOT_INITIALIZED: 
+[Parent 21641, Gecko_IOThread] WARNING: pipe error (71): Connection reset by peer: file /build/firefox-9JL5Vx/firefox-69.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1568978844437	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0scHvFN3yDF8"
+1568978845403	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568978845404	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568978845404	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568978845404	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568978848204	Marionette	INFO	Listening on port 39189
+1568978848254	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pharmacy-test-preprod.newmedicine.com.ua/scripts/EUSign/euscp.js, line 0: Successfully compiled asm.js code (total compilation time 1007ms)
+1568978855600	Marionette	INFO	Stopped listening on port 39189
+1568979807842	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.aTWS9TiWkOqq"
+1568979808541	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568979808541	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568979808542	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568979808542	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568979811620	Marionette	INFO	Listening on port 46261
+1568979811685	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pharmacy-test-preprod.newmedicine.com.ua/scripts/EUSign/euscp.js, line 0: Successfully compiled asm.js code (total compilation time 1016ms)
+1568979817373	Marionette	INFO	Stopped listening on port 46261
+1568979913159	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.lt7cqG4hw1lG"
+1568979913802	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568979913802	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568979913802	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568979913802	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568979916074	Marionette	INFO	Listening on port 34685
+1568979916171	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pharmacy-test-preprod.newmedicine.com.ua/scripts/EUSign/euscp.js, line 0: Successfully compiled asm.js code (total compilation time 1031ms)
+1568979920128	Marionette	INFO	Stopped listening on port 34685
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1568979975642	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.NxEMroFa6SHN"
+1568979976202	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568979976203	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568979976203	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568979976203	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568979978608	Marionette	INFO	Listening on port 40379
+1568979978653	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pharmacy-test-preprod.newmedicine.com.ua/scripts/EUSign/euscp.js, line 0: Successfully compiled asm.js code (total compilation time 1008ms)
+1568980077798	Marionette	INFO	Stopped listening on port 40379
+[Parent 25900, Gecko_IOThread] WARNING: pipe error (81): Connection reset by peer: file /build/firefox-9JL5Vx/firefox-69.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+console.error: (new Error("Transaction canceled due to a closed connection.", "resource://gre/modules/Sqlite.jsm", 613))
+1568980187962	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5CkTLgddnBtz"
+1568980188619	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568980188619	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568980188619	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568980188619	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568980191007	Marionette	INFO	Listening on port 33063
+1568980191074	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pharmacy-test-preprod.newmedicine.com.ua/scripts/EUSign/euscp.js, line 0: Successfully compiled asm.js code (total compilation time 1054ms)
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1568980262099	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.C3IdEqXvFy1j"
+1568980263146	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568980263147	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568980263147	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568980263147	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568980265478	Marionette	INFO	Listening on port 34145
+1568980265514	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pharmacy-test-preprod.newmedicine.com.ua/scripts/EUSign/euscp.js, line 0: Successfully compiled asm.js code (total compilation time 1017ms)
+1568980269476	Marionette	INFO	Stopped listening on port 34145
+1568980533799	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.mDIEu0CAYO9Y"
+1568980534620	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568980534621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568980534621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568980534621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568980536999	Marionette	INFO	Listening on port 41831
+1568980537014	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pharmacy-test-preprod.newmedicine.com.ua/scripts/EUSign/euscp.js, line 0: Successfully compiled asm.js code (total compilation time 1154ms)
+1568980540953	Marionette	INFO	Stopped listening on port 41831
+1568980601142	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.61wVdYxNub3e"
+1568980601688	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568980601689	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568980601689	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568980601689	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568980604229	Marionette	INFO	Listening on port 42233
+1568980604276	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pharmacy-test-preprod.newmedicine.com.ua/scripts/EUSign/euscp.js, line 0: Successfully compiled asm.js code (total compilation time 1063ms)
+1568980608109	Marionette	INFO	Stopped listening on port 42233
+[Parent 28791, Gecko_IOThread] WARNING: pipe error (142): Connection reset by peer: file /build/firefox-9JL5Vx/firefox-69.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1568980667612	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pFtLmhIcDmZt"
+1568980668211	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568980668211	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568980668211	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568980668212	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568980670711	Marionette	INFO	Listening on port 35175
+1568980670729	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pharmacy-test-preprod.newmedicine.com.ua/scripts/EUSign/euscp.js, line 0: Successfully compiled asm.js code (total compilation time 1065ms)
+1568980674581	Marionette	INFO	Stopped listening on port 35175
+1568980689811	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dfwtLXFC4JS9"
+1568980690402	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568980690403	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568980690403	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568980690403	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568980692817	Marionette	INFO	Listening on port 39437
+1568980692830	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pharmacy-test-preprod.newmedicine.com.ua/scripts/EUSign/euscp.js, line 0: Successfully compiled asm.js code (total compilation time 1174ms)
+1568980698900	Marionette	INFO	Stopped listening on port 39437
+1568980728401	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1hoIUXnmg16V"
+1568980728970	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568980728971	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568980728971	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568980728971	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568980731392	Marionette	INFO	Listening on port 38763
+1568980731414	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pharmacy-test-preprod.newmedicine.com.ua/scripts/EUSign/euscp.js, line 0: Successfully compiled asm.js code (total compilation time 1076ms)
+1568980735841	Marionette	INFO	Stopped listening on port 38763
+1568980850933	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.wZkpTK2lilzq"
+1568980851503	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568980851503	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568980851503	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568980851504	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568980853872	Marionette	INFO	Listening on port 34635
+1568980853944	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pharmacy-test-preprod.newmedicine.com.ua/scripts/EUSign/euscp.js, line 0: Successfully compiled asm.js code (total compilation time 1061ms)
+1568980858260	Marionette	INFO	Stopped listening on port 34635
