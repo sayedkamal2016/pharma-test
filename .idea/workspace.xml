@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ffe5954-98d9-426c-ad90-598ce23fe828" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/version_1/Objects/BaseObject.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/version_1/Objects/Menu_Bar/MenuBar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/version_1/Objects/Menu_Bar/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version_1/Objects/Navigation_Bar_Locators.py" beforeDir="false" afterPath="$PROJECT_DIR$/version_1/Objects/Menu_Bar/Menu_Bar_Locators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version_1/Pages/BasePage.py" beforeDir="false" afterPath="$PROJECT_DIR$/version_1/Pages/BasePage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version_1/Pages/Login_Page/LoginPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/version_1/Pages/Login_Page/LoginPage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version_1/Pages/Login_Page/LoginPageLocators.py" beforeDir="false" afterPath="$PROJECT_DIR$/version_1/Pages/Login_Page/LoginPageLocators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version_1/geckodriver.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/version_1/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/version_1/test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +29,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -50,16 +40,16 @@
     </option>
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/version_1/Pages/Login_Page" />
-      <recent name="$PROJECT_DIR$/version_1/Objects" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\vladv\Pharma-Test" />
       <recent name="C:\Users\vladv\Pharma-Test\venv" />
       <recent name="C:\Users\vladv\Pharma-Test\version_1\Objects\Menu_Bar" />
       <recent name="$PROJECT_DIR$/version_1/Pages" />
       <recent name="$PROJECT_DIR$/version_1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/version_1/Pages/Login_Page" />
+      <recent name="$PROJECT_DIR$/version_1/Objects" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -74,50 +64,41 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests">
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager">
+    <configuration name="Unittests" type="tests" factoryName="Unittests" singleton="false">
       <module name="Pharma-Test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PHARMA_PHARMLOGIN" value="0683021682" />
+        <env name="PHARMA_PHARMPASSWORD" value="Password1234" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/version_1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/version_1/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest for version_1.test.TestLoginPage.test_01_load_page" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="Pharma-Test" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/version_1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_pattern" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;version_1.test.TestLoginPage.test_01_load_page&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;CUSTOM&quot;" />
       <method v="2" />
     </configuration>
-    <list>
-      <item itemvalue="Python tests.Unittests" />
-      <item itemvalue="Python.test" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python tests.Unittests" />
-      </list>
-    </recent_temporary>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="Pharma-Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration>$PROJECT_DIR$/../.subversion</configuration>
@@ -137,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568987176363</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add Menu as  object">
+      <created>1569011895482</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1569011895482</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -155,6 +143,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add BasePage function" />
-    <option name="LAST_COMMIT_MESSAGE" value="add BasePage function" />
+    <MESSAGE value="add Menu as  object" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Menu as  object" />
   </component>
 </project>
