@@ -25,24 +25,21 @@ class TestLoginPage(unittest.TestCase):
         driver = self.driver
         assert "Поліклініка без черг" in driver.title
         LoginPage(driver).click_submit()
-        result = WebDriverWait(driver, 10).until(ex_cond.visibility_of_element_located(LoginLocators.ERROR_MESSAGE))
+        result = LoginPage(driver).take_error_message()
         assert "Введіть ваш номер телефону" in result.text
 
     def test_03_1_login_ok_click_Submit(self):
         driver = self.driver
         assert "Поліклініка без черг" in driver.title
-        login = WebDriverWait(driver, 10).until(ex_cond.visibility_of_element_located(LoginLocators.LOGIN_INPUT))
-        login.clear()
-        login.send_keys(self.LOGIN)
-        password = WebDriverWait(driver, 10).until(ex_cond.visibility_of_element_located(LoginLocators.PASSWORD_INPUT))
-        password.clear()
-        password.send_keys(self.PASSWORD)
-        WebDriverWait(driver, 10).until(ex_cond.visibility_of_element_located(LoginLocators.SUBMIT)).click()
+        LoginPage(driver).set_login(self.LOGIN)
+        LoginPage(driver).set_password(self.PASSWORD)
+        LoginPage(driver).click_submit()
         result = WebDriverWait(driver, 10).until(ex_cond.visibility_of_element_located(NavBarLocators.MENU_BLOCK))
         assert "Вийти" in result.text
 
     def tearDown(self):
         self.driver.close()
+        self.driver.quit()
 
 
 if __name__ == "__main__":
