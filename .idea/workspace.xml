@@ -2,14 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ffe5954-98d9-426c-ad90-598ce23fe828" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version_1/Pages/Login_Page/LoginPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/version_1/Pages/Login_Page/LoginPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version_1/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/version_1/geckodriver.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version_1/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/version_1/test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="pharma-tests" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -48,7 +53,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for test.TestLoginPage.test_02_1_enter_submit_without_login">
+  <component name="RunManager" selected="Python tests.Unittests for test.TestLoginPage.test_03_1_login_ok_click_Submit">
     <configuration name="Unittests for test.TestLoginPage" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="pharma-tests" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -107,10 +112,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Unittests for test.TestLoginPage.test_02_1_enter_submit_without_login" />
-        <item itemvalue="Python tests.Unittests for test.TestLoginPage" />
         <item itemvalue="Python tests.Unittests for test.TestLoginPage.test_03_1_login_ok_click_Submit" />
+        <item itemvalue="Python tests.Unittests for test.TestLoginPage" />
         <item itemvalue="Python tests.Unittests for test.TestLoginPage.test_01_load_page" />
+        <item itemvalue="Python tests.Unittests for test.TestLoginPage.test_02_1_enter_submit_without_login" />
       </list>
     </recent_temporary>
   </component>
@@ -125,6 +130,14 @@
       <option name="presentableId" value="Default" />
       <updated>1568906520829</updated>
     </task>
+    <task id="LOCAL-00001" summary="add BasePage function">
+      <created>1568987176363</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568987176363</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -132,10 +145,16 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add BasePage function" />
+    <option name="LAST_COMMIT_MESSAGE" value="add BasePage function" />
   </component>
 </project>

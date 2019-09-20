@@ -7,13 +7,13 @@ class LoginPage(BasePage):
         self.driver = driver
 
     def click_submit(self):
-        self.element_click(LoginPageLocators.SUBMIT)
+        return self.element_click(LoginPageLocators.SUBMIT)
 
     def take_error_message(self):
         return self.element_visible(LoginPageLocators.ERROR_MESSAGE)
 
     def set_login(self, login):
-        self.set_text_in_input(LoginPageLocators.LOGIN_INPUT, login)
+        return self.set_text_in_input(LoginPageLocators.LOGIN_INPUT, login)
 
     def set_password(self, password):
-        self.set_text_in_input(LoginPageLocators.PASSWORD_INPUT, password)
+        return self.set_text_in_input(LoginPageLocators.PASSWORD_INPUT, password)

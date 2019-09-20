@@ -1,6 +1,5 @@
 import os
 import unittest
-from version_1.Pages.Login_Page.LoginPageLocators import LoginPageLocators as LoginLocators
 from version_1.Objects.Navigation_Bar_Locators import NavigationBarLocators as NavBarLocators
 from version_1.Pages.Login_Page.LoginPage import LoginPage
 from selenium import webdriver
