@@ -12,7 +12,6 @@ class BasePage:
     def element_visible(self, locator):
         return WebDriverWait(self.driver, 10).until(ex_cond.visibility_of_element_located(locator))
 
-    def set_text_in_input(self, locator, text):
+    def send_in_input(self, locator, keys):
         inp = WebDriverWait(self.driver, 10).until(ex_cond.element_to_be_clickable(locator))
-        inp.clear()
-        return inp.send_keys(text)
+        return inp.send_keys(keys)
