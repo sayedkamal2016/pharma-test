@@ -1,5 +1,5 @@
-from version_1.Objects.Menu_Bar.Menu_Bar_Locators import MenuBarLocators
-from version_1.Objects.BaseObject import BaseObject
+from Objects.BaseObject import BaseObject
+from Objects.Menu_Bar.Menu_Bar_Locators import MenuBarLocators
 
 
 class MenuBar(BaseObject):

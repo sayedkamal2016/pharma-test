@@ -1,6 +1,7 @@
-from version_1.Pages.BasePage import BasePage
-from version_1.Pages.Login_Page.LoginPageLocators import LoginPageLocators
 from selenium.webdriver.common.keys import Keys
+
+from Pages.BasePage import BasePage
+from Pages.Login_Page.LoginPageLocators import LoginPageLocators
 
 
 class LoginPage(BasePage):
