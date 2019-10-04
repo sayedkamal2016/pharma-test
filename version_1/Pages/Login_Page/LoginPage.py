@@ -31,3 +31,10 @@ class LoginPage(BasePage):
 
     def click_back_in_forget_pass(self):
         return self.element_click(LoginPageLocators.FORGET_PASSWORD_BUTTON_BACK)
+
+    def message_click(self):
+        return self.element_click(LoginPageLocators.ERROR_MESSAGE)
+
+    def clear_login_input(self):
+        self.send_in_input(LoginPageLocators.LOGIN_INPUT, Keys.CONTROL + "a")
+        self.send_in_input(LoginPageLocators.LOGIN_INPUT, Keys.DELETE)
